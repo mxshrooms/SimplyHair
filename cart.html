@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <img id="logo" src="logo.png">
+        <ul>
+            <li><a id="home" onclick="home()">HOME</a></li>
+            <li><a id="shop" onclick="shop()">SHOP</a></li>
+            <li><a id="about" onclick="about()">ABOUT</a></li>
+            <li><a id="contact" onclick="contact()">CONTACT</a></li>
+        </ul>
+        <div>
+        <button onclick="cart()" class="bag">
+        <img class="bag2" src="shoppingbag.png"></button>
+        </div>
+        <h1 id="header1">My Cart</h1>
+        <img id="i1" src="1.png">
+        <br>
+        <img id="i2" src="2.png">
+        <br>
+        <img id="i3" src="3.png">
+        <br>
+        <img id="i4" src="4.png">
+        <ul>
+        <h1 id="random">Lemon + Tea Tree Oil Shampoo and Conditioner</h1>
+        <select name="quantity" id="quantity1">
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+        </select>
+        <h1 id="random2">Moisturising Anti-Frizz Hair Serum</h1>
+        <select name="quantity" id="quantity2">
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+        </select>
+        <h1 id="random3">Smooth N' Silky Styling Gel</h1>
+        <select name="quantity" id="quantity3">
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+        </select>
+        <h1 id="random4">Hair Defining Cream</h1>
+        <select name="quantity" id="quantity4">
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+        </select>
+        <button id="checkoutbutton" onclick="checkoutfunc()">Continue To Checkout</button>
+        <script src="cart.js"></script>
+        <script src="main.js"></script>
+    </body>
+</html>

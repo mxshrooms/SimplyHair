@@ -1,0 +1,535 @@
+#logo {
+    width:300px;
+    margin-top:-20px;
+    margin-left:50px;
+}
+body {
+    background-color:#FDF7F0;
+}
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:22px;
+    text-decoration: none;
+    list-style-type:none;
+    margin-left:600px;
+    margin-top:-93px;
+}
+li {
+    margin-left:50px;
+    display: inline;
+}
+#welcome {
+    width:100%;
+    height:550px;
+    margin-top:28px;
+}
+.centered {
+    position: absolute;
+    top: 53%;
+    left: 57%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+    font-size:60px;
+    width:90%;
+}
+.centered2 {
+    position: absolute;
+    top: 55%;
+    left: 55%;
+    transform: translate(-50%, 40%);
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+    font-size:60px;
+    font-weight:bold;
+    width:90%;
+}
+#shopbutton {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, 40%);
+    background-color:#3a774e;
+    height:60px;
+    width:200px;
+    font-size:25px;
+    font-weight:bolder;
+    color:white;
+    border-color:transparent;
+}
+#shopbutton:hover {
+    opacity: 0.85;
+}
+#home:hover {
+    background-color: rgb(224, 223, 223);
+}#about:hover {
+    background-color: rgb(224, 223, 223);
+}#shop:hover {
+    background-color: rgb(224, 223, 223);
+}#contact:hover {
+    background-color: rgb(224, 223, 223);
+}
+#section2 {
+    background-color:#FDF7F0;
+}
+#featureditems {
+    font-weight:bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    margin-top:50px;
+    font-size:36px;
+}
+#icon1 {
+    height:350px;
+    width:350px;
+}
+#icon2 {
+    height:350px;
+    width:350px;
+}
+#icon3 {
+    height:350px;
+    width:350px;
+}
+#row {
+    margin-left:130px;
+}
+#text1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    width:250px;
+    font-size:20px;
+    margin-left:175px;
+    text-align:center;
+}
+#text2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    width:250px;
+    font-size:20px;
+    margin-left:532px;
+    text-align:center;
+    margin-top:-102px;
+}
+#price1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    width:250px;
+    font-size:20px;
+    margin-left:175px;
+    text-align:center;
+}
+#price2 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    width:250px;
+    font-size:20px;
+    margin-left:530px;
+    text-align:center;
+}
+#text3 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    width:250px;
+    font-size:20px;
+    margin-left:890px;
+    text-align:center;
+    margin-top:-102px;
+}
+#price3 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    width:250px;
+    font-size:20px;
+    margin-left:890px;
+    text-align:center;
+}
+#shoplabel {
+    text-align: center;
+    margin-top:28px;
+}
+#hair {
+    margin-top:28px;
+    margin-left:68px;
+}
+#contactus {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    font-size:80px;
+    margin-left:755px;
+    margin-top:-450px;
+}
+#name {
+    margin-left:725px;
+    height:50px;
+    width:250px;
+    font-size:15px;
+    border:none;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    background-color:transparent;
+}
+#email {
+    margin-top:20px;
+    margin-left:725px;
+    height:50px;
+    width:250px;
+    font-size:15px;
+    border:none;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    background-color:transparent;
+}
+#msg {
+    margin-top: 20px;
+    margin-left:725px;
+    height:50px;
+    width:250px;
+    font-size:15px;
+    border:none;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    background-color:transparent;
+
+}
+#contactlabel {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:1115px;
+    margin-top:-190px;  
+}
+#emaillabel {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:1075px;
+    margin-top:-30px;  
+    font-size:20px;
+    font-weight: lighter;
+}
+#phonelabel {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:1115px;
+    margin-top:12px;  
+}
+#phonenumber {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:1085px;
+    margin-top:-30px;  
+    font-size:20px;
+    font-weight: lighter;
+}
+#submitbutton {
+    background-color:#3a774e;
+    height:60px;
+    width:200px;
+    font-size:25px;
+    font-weight:bolder;
+    color:white;
+    border-color:transparent;
+    margin-left:750px;
+    margin-top:25px;
+}
+#submitbutton:hover {
+    opacity: 0.85;
+}
+#p1 {
+    width:300px;
+    margin-top:28px;
+}#p2 {
+    width:300px;
+    margin-top:28px;
+}#p3 {
+    width:300px;
+    margin-top:28px;
+}#p4 {
+    width:300px;
+    margin-top:28px;
+}
+#row1 {
+    margin-left:60px;
+}
+#shoplabel {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:47px;
+    font-weight:bolder;
+}
+#t1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    margin-left:56px;
+    text-align:center;
+    width:300px;
+    font-size:20px;
+    margin-top:30px;
+}
+#t2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    font-size:20px;
+    margin-left:365px;
+    width:300px;
+    text-align:center;
+    margin-top:-60px;
+}
+#t3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    font-size:20px;
+    margin-left:670px;
+    width:300px;
+    text-align:center;
+    margin-top:-58px;
+}
+#t4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    font-size:20px;
+    margin-left:980px;
+    width:300px;
+    text-align:center;
+    margin-top:-36px;
+}
+#l1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    width:250px;
+    font-size:20px;
+    margin-left:75px;
+    text-align:center;
+    margin-top:30px;
+}
+#l2 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    width:250px;
+    font-size:20px;
+    margin-left:390px;
+    text-align:center;
+    margin-top:-35px;
+}
+#l3 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    width:250px;
+    font-size:20px;
+    margin-left:685px;
+    text-align:center;
+    margin-top:-55px;
+}
+#l4 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    width:250px;
+    font-size:20px;
+    margin-left:1005px;
+    text-align:center; 
+    margin-top:-40px;
+}
+#b1 {
+    background-color:#3a774e;
+    height:50px;
+    width:170px;
+    font-size:25px;
+    font-weight:bolder;
+    color:white;
+    border-color:transparent;
+    margin-left:110px;
+    margin-top:25px;
+}
+#b2 {
+    background-color:#3a774e;
+    height:50px;
+    width:170px;
+    font-size:25px;
+    font-weight:bolder;
+    color:white;
+    border-color:transparent;
+    margin-left:150px;
+    margin-top:25px;
+}
+#b3 {
+    background-color:#3a774e;
+    height:50px;
+    width:170px;
+    font-size:25px;
+    font-weight:bolder;
+    color:white;
+    border-color:transparent;
+    margin-left:120px;
+    margin-top:25px;
+}
+#b4 {
+    background-color:#3a774e;
+    height:50px;
+    width:170px;
+    font-size:25px;
+    font-weight:bolder;
+    color:white;
+    border-color:transparent;
+    margin-left:145px;
+    margin-top:25px;
+}
+#b1:hover {
+    opacity:0.85;
+}
+#b2:hover {
+    opacity:0.85;
+}
+#b3:hover {
+    opacity:0.85;
+}
+#b4:hover {
+    opacity:0.85;
+}
+.bag {
+    height:70px;
+    margin-top:-75px;
+    width:70px;
+    float:right;
+    background-color:transparent;
+    border-color:transparent;
+}
+.bag2 {
+    height:70px;
+    margin-left:-70px;
+    margin-top:-5px;
+    width:70px;
+}
+#i1 {
+    border-radius:30px;
+    margin-top:60px;
+    width:150px;
+    margin-left:67px;
+}
+#i2 {
+    border-radius:30px;
+    margin-top:60px;
+    width:150px;
+    margin-left:67px;
+}
+#i3 {
+    border-radius:30px;
+    margin-top:60px;
+    width:150px;
+    margin-left:67px;
+}
+#i4 {
+    border-radius:30px;
+    margin-top:60px;
+    width:150px;
+    margin-left:67px;
+}
+#header1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    margin-top:45px;
+    font-size:47px;
+    font-weight:bolder;
+}
+#aboutus {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:47px;
+    font-weight:bolder;
+    text-align:center;
+    margin-top:-10px;
+}
+#aboutus1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:25px;
+    font-weight:300;
+    text-align:center;
+}
+#aboutus2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:25px;
+    font-weight:300;
+    text-align:center;
+    margin-left:200px;
+    width:70%;
+}
+#whyus {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:25px;
+    font-weight:bolder;
+    text-align:center;
+    margin-top:60px;
+}
+#whyus1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:25px;
+    font-weight:300;
+    text-align:center;
+    margin-left:200px;
+    width:70%;
+    margin-top:-9px;
+}
+#whyus2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:25px;
+    font-weight:300;
+    text-align:center;
+    margin-left:200px;
+    width:70%;
+    margin-top:-9px;
+}
+#whyus3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:25px;
+    font-weight:300;
+    text-align:center;
+    margin-left:200px;
+    width:70%;
+    margin-top:-9px;
+}
+#random {
+    margin-left:-400px;
+    margin-top:-730px;
+    font-family:calibri;
+    font-weight:350px;
+    font-size:22px;
+}
+#random2 {
+    margin-left:-400px;
+    margin-top:160px;
+    font-family:calibri;
+    font-weight:350px;
+    font-size:22px;
+}
+#random3 {
+    margin-left:-400px;
+    margin-bottom:1px;
+    margin-top:150px;
+    font-family:calibri;
+    font-weight:350px;
+    font-size:22px;
+}
+#random4 {
+    margin-left:-400px;
+    margin-bottom:5px;
+    margin-top:170px;
+    font-family:calibri;
+    font-weight:350px;
+    font-size:22px;
+}
+#checkoutbutton {
+    background-color:#3a774e;
+    height:50px;
+    width:300px;
+    font-size:25px;
+    font-weight:bolder;
+    color:white;
+    border-color:transparent;
+    float:right;
+    margin-top:-875;
+    margin-left:250px;
+    margin-right:100px;
+}
+#check {
+    text-align:center;
+    font-size:90px;
+}
+#thankyou {
+    font-family:calibri;
+    text-align:center;
+    font-size:60px;
+}
+#thankyou2 {
+    font-family:calibri;
+    text-align:center;
+    font-size:38px;
+}
